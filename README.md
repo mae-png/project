@@ -6,7 +6,7 @@ gantt
 
     section FYP 1 (Semester 1 2026/2027)
     1. Title selection & brief proposal           :a1, 2026-08-14, 2026-09-07
-    2. Figma UI UX prototype design               :a2, 2026-09-01, 2026-10-21
+    2. UI UX wireframing & dashboard mockups      :a2, 2026-09-01, 2026-10-21
     3. Full proposal submission                   :a3, 2026-10-05, 2026-10-22
     4. Requirements gathering & rule definition   :a4, 2026-10-01, 2026-12-01
     5. Chapter 1 Introduction                     :a5, 2026-10-23, 2026-10-30
